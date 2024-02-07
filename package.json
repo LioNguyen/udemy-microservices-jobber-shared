@@ -19,7 +19,7 @@
   "author": "Lio Nguyen",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/LioNguyen/udemy-microservices-jobber-shared"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
